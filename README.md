@@ -32,7 +32,13 @@
 ## Key Features
 - 🫧 Transparent tax structure & no hidden fees
 - 👵🏻 Seamless UIUX - even your grandma can operate it
-- 📦 Bundle supports up to 24 wallets
+- 📦 Token Bundle supports up to 24 wallets
+- 🍅 Organic Bundle buy supports up to 24 wallets
+- 🥷 Auto stealth mode to bypass Photon, Bullx & other platforms
+- 🫨 Shake out snipers strategy
+- 💬 Automated comments on your own launches or any token
+- 🔥 Bump your token to trending page & gain visibility
+- 🌊 Generate organic-like volume for your token
 - 💵 Robust sell options - single / multiple wallets
 - 🔮 Supports Raydium integration
 
