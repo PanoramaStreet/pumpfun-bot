@@ -3,7 +3,7 @@
   Panorama Street - Pump.fun Bot
 </h1>
 
-<h4 align="center">Pump.fun Bot • Pump.fun Volume Bot • Pump.fun Bump Bot • Pump.fun Sniper • Pump.fun Bundler • Pump.fun Comment Bot</h4>
+<h4 align="center">Pump.fun Bot • Pump.fun Volume Bot • Pump.fun Bump Bot • Pump.fun Sniper Bot • Pump.fun Bundler • Pump.fun Organic Bundler • Pump.fun Comment Bot</h4>
 
 <div align="center">
   <a href="https://discord.gg/h5C4eKgvGm">
