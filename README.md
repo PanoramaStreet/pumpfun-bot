@@ -23,7 +23,7 @@
 </div>
 
 ## Demo Videos
-- Join our [Discord](https://discord.gg/h5C4eKgvGm) to view the full demo videos
+- Join our [Discord](https://discord.gg/h5C4eKgvGm) to view the Full Demo Videos 📀
 
 ## Join Us
 - 👾 Discord: https://discord.gg/h5C4eKgvGm
