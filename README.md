@@ -14,9 +14,12 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
          alt="Telegram">
   </a>
-  
-  ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/PanoramaStreet_)
 
+</div>
+<div align="center">
+  <a href="https://x.com/PanoramaStreet_">
+    <img src="https://img.shields.io/twitter/follow/PanoramaStreet_" alt="X" />
+  </a>
 </div>
 
 ## Demo Videos
