@@ -29,6 +29,9 @@
 - 👾 Discord: https://discord.gg/h5C4eKgvGm
 - 📩 Telegram: https://t.me/panoros
 
+## How To Use
+- 🤖 Telegram Bot: https://t.me/PanoStreetBot
+
 ## Key Features
 - 🫧 Transparent tax structure & no hidden fees
 - 👵🏻 Seamless UIUX - even your grandma can operate it
