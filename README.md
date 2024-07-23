@@ -38,7 +38,6 @@
 - 📦 Token Bundler supports up to 24 wallets
 - 🍅 Organic Bundler supports up to 24 wallets buy
 - 🥷 Auto stealth mode to bypass Photon, Bullx & other platforms
-- 🫨 Shake out snipers strategy
 - 💬 Automated comments on your own launches or any token
 - 🔥 Bump your token to trending page & gain visibility
 - 🌊 Generate organic-like volume for your token
