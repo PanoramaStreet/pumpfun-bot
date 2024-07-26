@@ -40,7 +40,7 @@
 - 🥷 Auto stealth mode to bypass Photon, Bullx & other platforms
 - 💬 Automated comments on your own launches or any token
 - 🔥 Bump your token to trending page & gain visibility
-- 🌊 Generate organic-like volume for your token
+- 🌊 Generate organic-like volume for your tokens
 - 💵 Robust sell options - single / multiple wallets
 - 🔮 Supports Raydium integration
 
